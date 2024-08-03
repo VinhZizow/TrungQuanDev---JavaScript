@@ -2,7 +2,7 @@
 // console.log(a); => Lỗi
 let a = 1;
 console.log(a);
-// le không thể tái khai báo
+// let không thể tái khai báo
 // let a=2; => Lỗi
 
 //let không cho tái khai báo => Lỗi
